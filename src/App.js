@@ -6,9 +6,7 @@ class App extends Component<> {
     return (
       <div className="App">
         <header className="App-header">
-          <span>
-            Edit <code>src/App.js</code> and save to reload.
-          </span>
+          <span>Edit src/App.js and save to reload.</span>
           <p
             className="App-link"
             href="https://reactjs.org"
