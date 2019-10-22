@@ -16,6 +16,7 @@ function App() {
         >
           Learn React and more
         </a>
+        <a>New text without style</a>
       </header>
     </div>
   );
