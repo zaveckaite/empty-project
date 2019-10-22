@@ -1,7 +1,7 @@
-import React from "react";
+import React, { Component } from "react";
 import "./App.scss";
 
-function App() {
+class App extends Component<>  {
   return (
     <div className="App">
       <header className="App-header">
