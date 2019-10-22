@@ -8,14 +8,14 @@ function App() {
         <span>
           Edit <code>src/App.js</code> and save to reload.
         </span>
-        <a
+        <p
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
           Learn React and more
-        </a>
+        </p>
       </header>
     </div>
   );
