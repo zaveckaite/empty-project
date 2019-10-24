@@ -1,5 +1,6 @@
-import React, { Component, Fragment } from "react";
+import React, { Component } from "react";
 import "./App.scss";
+import Button from "./Button";
 
 class App extends Component<> {
   render() {
@@ -15,6 +16,7 @@ class App extends Component<> {
           >
             Learn React and more
           </p>
+          <Button />
         </header>
       </div>
     );
